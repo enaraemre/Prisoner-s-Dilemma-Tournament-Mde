@@ -1,1 +1,3 @@
-# Prisoner-s-Dilemma-Tournament-Mde
+# Prisoner's Dilemma Tournament Mode in Python
+
+Detailed explenation on PDF
